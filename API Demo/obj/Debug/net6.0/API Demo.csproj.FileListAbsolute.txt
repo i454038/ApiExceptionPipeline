@@ -1,0 +1,34 @@
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\appsettings.Development.json
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\appsettings.json
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\API Demo.exe
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\API Demo.deps.json
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\API Demo.runtimeconfig.json
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\API Demo.dll
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\API Demo.pdb
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\ApiExceptionPipelineV2.0.dll
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\ApiExceptionPipelineV2.0.pdb
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\API Demo.csproj.AssemblyReference.cache
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\API Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\API Demo.AssemblyInfoInputs.cache
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\API Demo.AssemblyInfo.cs
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\API Demo.csproj.CoreCompileInputs.cache
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\API Demo.MvcApplicationPartsAssemblyInfo.cs
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\API Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\staticwebassets.build.json
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\staticwebassets.development.json
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\scopedcss\bundle\API Demo.styles.css
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\API Demo.csproj.CopyComplete
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\API Demo.dll
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\refint\API Demo.dll
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\API Demo.pdb
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\API Demo.genruntimeconfig.cache
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\obj\Debug\net6.0\ref\API Demo.dll
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Coding Projects\C# - ApiExceptionPipelineV2.0\API Demo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
